@@ -17,16 +17,16 @@ NumberStationFiles = np.array([19,19])
 NumberStation = NumberStationFiles.sum()
 
 
-stationlist = ['Cumberland_YarCon_YarIrr','Emerald',
+stationlist = ['BeaconFarm','AD','Cumberland_YarCon_YarIrr','Emerald',
                'Yanco','Robson','Riggs','Longreach',
                'Otway','Digby','Calperum','ASM',
                'DalyPasture_SturtPlains','TTE','DryRiver','RDMF',
                'DalyUncleared_DalyRegrowth','AdelaideRiver','Howard','Litchfield',
                'Ridgefield','Boyagin',
                'CowBay','FoggDam','GWW','Gingin','Tumbarumba',
-               'Warra','Whroo','WombatStateForest','fallscreek',
-               'CapeTribulation','Collie','Dargo','GatumPasture',
-               'Nimmo','Samford','Wallaby']
+                'Warra','Whroo','WombatStateForest','fallscreek',
+                'CapeTribulation','Collie','Dargo','GatumPasture',
+                'Nimmo','Samford','Wallaby']
 
 #monthly
 #endyear = 2023
